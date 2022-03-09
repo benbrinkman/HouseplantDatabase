@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Philodendron Database</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="houseplants.css">
+
+    </head>
+    <body>
+        <div id="header">
+            <h1>Philodendrons</h1>
+        </div>
+        
+        <div id='content'>
+            <div id='filterBar'>
+            </div>
+            <div id='tableContainer'>
+                <p id='texttest'>this is some test text</p>
+            </div>
+        </div>
+    
+    
+    
+    
+    
+    <!-- Insert these scripts at the bottom of the HTML, but before you use any Firebase services -->
+
+    <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-database.js"></script>
+
+
+
+    <script>
+    // Your web app's Firebase configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyABmoQNn3bXLgWOx2V-4tadCcwmftenyR4",
+            authDomain: "houseplant-database.firebaseapp.com",
+            databaseURL: "https://houseplant-database-default-rtdb.firebaseio.com",
+            projectId: "houseplant-database",
+            storageBucket: "houseplant-database.appspot.com",
+            messagingSenderId: "1064761369903",
+            appId: "1:1064761369903:web:950c555bfc1b2e2acfedda",
+            measurementId: "G-L1Y39QC2Q5"
+        };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+
+        var database = firebase.database();
+
+        Tiles(1, 3);
+        
+        function Tiles(margin, numTiles){
+            var tile = document.getElementsByClassName("tile");
+            var tileWidth = (100-((numTiles+1)*margin))/numTiles;
+            for (var i = 0; i < tile.length; i++){
+                tile[i].style.marginTop=margin+"%";
+                tile[i].style.marginLeft=margin+"%";
+                tile[i].style.width=tileWidth+"%";
+            }
+            
+        }
+
+        
+//        const numberOfUsers = 116;
+//        const randomIndex = Math.floor(Math.random() * numberOfUsers);
+//
+        function snapshotToArray(snapshot) {
+            var returnArr = [];
+
+            snapshot.forEach(function(childSnapshot) {
+                var item = childSnapshot.val();
+                item.key = childSnapshot.key;
+
+                returnArr.push(item);
+            });
+            return returnArr;
+        };
+        
+        
+        
+        var testVar = firebase.database().ref('/0/').once('value').then(function(snapshot) {
+            houseplants = snapshotToArray(snapshot);
+            console.log(houseplants);
+            var len = houseplants[0].length;
+            console.log(len);
+
+            var randomIndex = Math.floor(Math.random() * len);
+            var textArea = document.getElementById("tableContainer");
+            var i;
+            //set first row of table
+//            var htmlTable = "<table id='feats' cellspacing='0' cellpadding='0'><tr><th>Name</th><th>Prerequisites</th><th>Description</th><th>Source</th></tr>"; 
+            var htmlTable = "<table id='houseplants' cellspacing='0' cellpadding='0'><tr><th>Name</th><th>AKA</th></tr>"; 
+            for(i=0; i<len;i++){
+                var row = "<tr>";
+                
+                    var name="<td class='nameRow' class='filter'><h3>"+houseplants[0][i].Name+"</small></td>";                
+                
+                    var aka="<td class='akaRow' class='filter'><h3>"+houseplants[0][i].AKA+"</small></td>";  
+                
+                    var rowEnd = "</tr>";
+                
+                    htmlTable = htmlTable.concat(row, name, aka, rowEnd);
+            }
+            htmlTable += "</table>";
+            textArea.innerHTML = htmlTable;
+            console.log(len);
+        });
+        
+        
+        function Input(){
+            var table, checkboxSource, searchSource, tableRows;
+            table = document.getElementById("houseplants");
+            checkboxSource[0] = document.getElementById("ERLW");
+            searchSource = document.getElementById("searchBar");
+            
+            tableRows = table.getElementsByTagName("tr");
+
+
+            //TO DO: make ros appear again using the toggle function, only if checkbox checked and run a check on the search bar content
+            //TO DO: Make the search bar check its own function
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+                ToggleRow(tr[i], "ERLW", true);
+            }
+            //Se
+        v}
+        
+        //UNCHECK UNDO
+        function HideSourceRows(_src){
+            var input, table, tr, i;
+            input = document.getElementById("ERLW");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("houseplants");
+            tr = table.getElementsByTagName("tr");
+            
+            
+            //TO DO: make ros appear again using the toggle function, only if checkbox checked and run a check on the search bar content
+            //TO DO: Make the search bar check its own function
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+                ToggleRow(tr[i], "ERLW", true);
+            }
+            //SearchFilter()
+        }
+        
+        
+        function ToggleRow(tr, _src, isHidingRow){
+            td = tr.getElementsByTagName("td")[0];
+            if(td){
+                src = td.getElementsByTagName("small")[0];
+                if(src){
+                    if(src.textContent === "Source: "+_src){
+                        if(document.getElementById(_src).checked === false && isHidingRow){
+                            tr.style.display = "none";
+                        }
+                        if(document.getElementById(_src).checked === true && !isHidingRow){
+                            tr.style.display = "";
+                        }
+                    }
+                }
+            }
+        }
+        
+        
+        function SearchFilter() {
+            var input, filter, table, tr, td, i,j, txtValue, queryFound;
+            input = document.getElementById("searchBar");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("houseplants");
+            tr = table.getElementsByTagName("tr");
+
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td");
+                if(td){
+                    //console.log(td);
+                    queryFound = false;
+                    for (j = 0; j < td.length; j++) {
+                        txtValue = td[j].textContent || td[j].innerText;
+                        if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                            queryFound = true;
+                        }   
+                    }
+                    if(queryFound){
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+                
+            }
+            //HideSourceRows("ERLW");
+        }
+
+
+
+        function writeUserData(userId, name, email, imageUrl) {
+            firebase.database().ref('users/' + userId).set({
+                username: name,
+                email: email,
+                profile_picture : imageUrl
+            });
+        }
+
+        firebase.analytics();
+    </script>
+
+    </body>
+
+</html>
