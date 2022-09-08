@@ -1,7 +1,7 @@
 body{
     padding:0;
     margin:0;
-    background-color:#a9a9a9;
+    background-color:white;
 }
 
 #content{
@@ -11,6 +11,10 @@ body{
     background-color:white;/*#fafafa;*/
     border:none;
 /*    border: 0px solid #fff;*/
+}
+#container{
+    width:80%;
+    margin-left:10%;
 }
 
 #searchContainer{
@@ -35,7 +39,31 @@ body{
     font-weight: 100;
 }
 
+.name{
+    background-color: #eeeeee;
+    height:20%;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
 
+.tile{
+    font-family: 'Arial', serif;
+/*    height:100px;*/
+    width:100px;
+/*    background-color:#dbf5c6;*/
+    background-color:#FFFFFF;
+    float:left;
+    text-align: center;
+    height:200px;
+    
+}
+
+.tile img{
+    height:80%;
+    overflow: hidden;
+    
+}
 
 .prerequisitesRow{
     /*width:15%;*/

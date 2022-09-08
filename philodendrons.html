@@ -10,12 +10,18 @@
         <div id="header">
             <h1>Philodendrons</h1>
         </div>
+<!--        <img src="img_philo/69686.png">-->
+        <div id='container'>
+        
+        </div>
+        
+        
         
         <div id='content'>
             <div id='filterBar'>
             </div>
             <div id='tableContainer'>
-                <p id='texttest'>this is some test text</p>
+                <p id='texttest'></p>
             </div>
         </div>
     
@@ -50,20 +56,27 @@
 
         var database = firebase.database();
 
-        Tiles(1, 3);
+        //createTiles(12);
+        //Tiles(1, 5);
         
-        function Tiles(margin, numTiles){
+        function Tiles(margin, numTilesWide){
             var tile = document.getElementsByClassName("tile");
-            var tileWidth = (100-((numTiles+1)*margin))/numTiles;
+            var tileWidth = (100-((numTilesWide+1)*margin))/numTilesWide;
             for (var i = 0; i < tile.length; i++){
                 tile[i].style.marginTop=margin+"%";
                 tile[i].style.marginLeft=margin+"%";
                 tile[i].style.width=tileWidth+"%";
+                tile[i].style.height=tile[i].style.clientWidth;
             }
-            
         }
 
-        
+        function createTiles(numTiles){
+            var container = document.getElementById("container");
+            for (var i = 0; i < numTiles; i++){
+                var tile = "<div class = 'tile'></div>";
+                container.innerHTML = container.innerHTML + tile;
+            }
+        }
 //        const numberOfUsers = 116;
 //        const randomIndex = Math.floor(Math.random() * numberOfUsers);
 //
@@ -78,7 +91,17 @@
             });
             return returnArr;
         };
-        
+        function checkFileExist(urlToFile) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('HEAD', urlToFile, false);
+            xhr.send();
+            console.log(xhr.status);
+            if (xhr.status == "404") {
+                return false;
+            } else {
+                return true;
+            }
+        }
         
         
         var testVar = firebase.database().ref('/0/').once('value').then(function(snapshot) {
@@ -86,8 +109,27 @@
             console.log(houseplants);
             var len = houseplants[0].length;
             console.log(len);
-
-            var randomIndex = Math.floor(Math.random() * len);
+            function createTiles(numTiles){
+                var container = document.getElementById("container");
+                var content="";
+                var tile="";
+                for (var i = 0; i < numTiles; i++){
+                    var imgSrc = houseplants[0][i].Name.replaceAll("'","")+".jpg";
+                                    
+                    var img = "<img src='img_philo/"+imgSrc+"'>";
+                    content = img+"<div class='name'>"+houseplants[0][i].Name+"</div>";
+                    
+                    tile = "<div class = 'tile'>"+content+"</div>";
+                    container.innerHTML = container.innerHTML + tile;
+                }
+            }
+            
+            createTiles(len);
+            Tiles(1, 4);
+            console.log(len);
+        });
+        /**
+        var randomIndex = Math.floor(Math.random() * len);
             var textArea = document.getElementById("tableContainer");
             var i;
             //set first row of table
@@ -95,20 +137,19 @@
             var htmlTable = "<table id='houseplants' cellspacing='0' cellpadding='0'><tr><th>Name</th><th>AKA</th></tr>"; 
             for(i=0; i<len;i++){
                 var row = "<tr>";
-                
+
                     var name="<td class='nameRow' class='filter'><h3>"+houseplants[0][i].Name+"</small></td>";                
-                
+
                     var aka="<td class='akaRow' class='filter'><h3>"+houseplants[0][i].AKA+"</small></td>";  
-                
+
                     var rowEnd = "</tr>";
-                
+
                     htmlTable = htmlTable.concat(row, name, aka, rowEnd);
             }
             htmlTable += "</table>";
             textArea.innerHTML = htmlTable;
-            console.log(len);
-        });
         
+        **/
         
         function Input(){
             var table, checkboxSource, searchSource, tableRows;

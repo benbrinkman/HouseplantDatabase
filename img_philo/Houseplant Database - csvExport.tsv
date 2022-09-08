@@ -1,0 +1,2536 @@
+[			
+	{"houseplants":[		
+		{	
+		"Name":	69686
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	acutifolium
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	alatisulcatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	alatiundulatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	Anderson white
+		"Image":	
+		"AKA":	(pink princess x white knight), red anderson, pink anderson
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	Anderson's red
+		"Image":	
+		"AKA":	Anderson's improved red
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	angel
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	angustialatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	applanatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	asperatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	asplundii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	atabapoense
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	atratum
+		"Image":	
+		"AKA":	dodsonii
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	attenuatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	auriculatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	autumn
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	balaoanum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	bannoniae
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	barrosoanum
+		"Image":	
+		"AKA":	levelii, milleri, cow faced phiodendron
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	baudoense
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	bernardopazii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	bicolor
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	billietiae
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	billietiae (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	binpennifolium
+		"Image":	
+		"AKA":	horse head
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	binpennifolium (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	birkin
+		"Image":	
+		"AKA":	(tatei x imperial green)
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	black cardinal x caramel
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	Bob cee
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	Bob cee (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	bonifaziae
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	brandtianum
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	burle marx (variegated)
+		"Image":	
+		"AKA":	imbe ilsemanii variegata?
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	burle marx fantasy
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	burle marxii
+		"Image":	
+		"AKA":	imbe, burle-marx
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	callosum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	campii
+		"Image":	
+		"AKA":	Lynnette
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	camposportoanum 
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	Cathaline
+		"Image":	
+		"AKA":	Kathleen, Catheline, Prince of Orange x Mccolley's Finale
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	Cherry Red
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	colombianum
+		"Image":	
+		"AKA":	colombia
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	corcovadensis
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	cordatum Kunth
+		"Image":	
+		"AKA":	Angra dos ries
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	corrugatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	corsinianum
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	crassinervium
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	cruentum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	dark lord
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	deflexum
+		"Image":	
+		"AKA":	megalophyllum
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	delinskii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	distantilobum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	domesticum
+		"Image":	
+		"AKA":	spade leaf, 
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	domesticum (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	domesticum melinonii gold
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	elegans
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	ernestii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens
+		"Image":	
+		"AKA":	red emerald 
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens black cardinal
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens black cardinal (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens imperial green
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens imperial green (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens imperial red
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens imperial red (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens Pink Princess
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens Strawberry Shake
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	erubescens White Princess
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	esmeraldense
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	eximium
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	felix
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	fibraecataphyllum
+		"Image":	
+		"AKA":	peru
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	fibrosum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	florida
+		"Image":	
+		"AKA":	(pedatum x squamiferum)
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	florida beauty
+		"Image":	
+		"AKA":	(pedatum x squamiferum)
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	florida bronze
+		"Image":	
+		"AKA":	(florida x black cardinal), spanish guitar
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	florida ghost
+		"Image":	
+		"AKA":	(pedatum x squamiferum)
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	furcatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	fuzzy petiole
+		"Image":	
+		"AKA":	sp "Fuzzy Petiole", not nangaritense
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	genevievianum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	geniculatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	giganteum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	giganteum blizzard
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	gigas
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	gloriosum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	gloriosum (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	glorious
+		"Image":	
+		"AKA":	(gloriosum x melanochrysum)
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	goldiana
+		"Image":	
+		"AKA":	golden spear, caulkin's gold
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	grandipes
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	grazielae
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	green sky
+		"Image":	
+		"AKA":	Cielo Verde
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	gribianum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hastatum
+		"Image":	
+		"AKA":	silver sword
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hebetatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum
+		"Image":	
+		"AKA":	heartleaf
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum brasil
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum cream splash
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum gabby sport
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum lemon lime
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum mican
+		"Image":	
+		"AKA":	hederaceum hederaceum
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	hederaceum mican (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	hederaceum rio
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	hederaceum silver stripe
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	heleniae
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	henderson's pride
+		"Image":	
+		"AKA":	narrow, narrow escape, tiger tooth, jungle boogie, sawtooth, serratum, shark's tooth, wendlandii x tortum
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	henderson's pride golden
+		"Image":	
+		"AKA":	orange, golden saw, serratum gold, golden crocodile
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	henderson's pride variegata
+		"Image":	
+		"AKA":	ring of fire
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	heterocraspedon
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	holtonianum
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	imbe whipple way
+		"Image":	
+		"AKA":	mottled whipple way, albo-maculata
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	Jerry horne
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	joepii
+		"Image":	
+		"AKA":	pedatum x bippenifolium
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	jose buono
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	lacerum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	lehmannii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	linnaei
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	longilaminatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	longilobatum
+		"Image":	
+		"AKA":	lelano miyano
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	lupinum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	luxurians
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	lynamii
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	lynnhannoniae
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	magnum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	majestic
+		"Image":	
+		"AKA":	(sodiroi x verrucosum)
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	majesty
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	malay gold
+		"Image":	
+		"AKA":	golden goddess, lemon lime
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	mamei
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	martianum
+		"Image":	
+		"AKA":	fat boy
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	maximum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	mayoi
+		"Image":	
+		"AKA":	tahiti
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	mccolley's finale
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	mcdowell
+		"Image":	
+		"AKA":	(pastazanum x gloriosum)
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	melanochrysum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	melanoneuron
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	mexicanum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	micranthum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	microstictum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	minarum
+		"Image":	
+		"AKA":	green dragon
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	minarum (variegated)
+		"Image":	
+		"AKA":	variegated lime fiddle
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	minarum lime fiddle
+		"Image":	
+		"AKA":	golden dragon
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	mindo
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	moonlight
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	nanegalense
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	nangaritense
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	oblanceolatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	oxapapense
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	painted lady
+		"Image":	
+		"AKA":	rising sun
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	paloraense
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	panduriforme
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	paraiso verde
+		"Image":	
+		"AKA":	Marina Ruy Barbusa
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	parvilobum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pastazanum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	patriciae
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pedatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pedatum polypodioides
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pedatum quercifloium
+		"Image":	
+		"AKA":	glad hands, florida narrow
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	plowmanii
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pluto
+		"Image":	
+		"AKA":	choco empress, (wendlandii x p 'Red Wings') x tortum
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pluto variegata
+		"Image":	
+		"AKA":	caramel marble
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	prince of orange
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pseudauriculatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pseudoverrucosum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	pterotum
+		"Image":	
+		"AKA":	Andes
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	pulchrum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	quelalii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	radiatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	radiatum (variegated)
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	red heart
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	red moon
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	red sun
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	ricardoi
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	rojo congo
+		"Image":	
+		"AKA":	(imperial red x tatei), red congo
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	roseocataphyllum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	rubrijuvenilum el choco red
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	rubrocinctum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	rugapetiolatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	rugosum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	ruizii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	sagittifolium
+		"Image":	
+		"AKA":	tuxtlanum, tuxtla, mandiainum, daemonum source: http://abrimaal.pro-e.pl/araceum/philodendron/sagittifolium.htm, https://www.exoticrainforest.com/Philodendron%20sagittifolium%20pc.html
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	sagittifolium ilsemanii
+		"Image":	
+		"AKA":	imbe ilsemanii variegata?
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	sanctamartinense
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	scherberichii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	serpens
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	sharoniae
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	smithii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	snow drift
+		"Image":	
+		"AKA":	pinnatifidum x giganteum
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	sodiroi
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	sparreorum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	spiritus sancti
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	splendid
+		"Image":	
+		"AKA":	(melanochrysum x verrucosum)
+		"Accepted species":	FALSE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	squamicaule
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	squamiferum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	TRUE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	squamipetiolatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	subhastatum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	summer glory
+		"Image":	
+		"AKA":	Gloriosum x mccolleys
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	sunset
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	superbum
+		"Image":	
+		"AKA":	bernardopazii
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	tatei
+		"Image":	
+		"AKA":	congo, congo green
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	tenue
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	thai sunrise
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	tortum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	tripartitum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	TRUE
+		"Lobey":	TRUE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	urraoensis
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	verrucapetiolum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	verrucosum
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	TRUE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	TRUE
+		},	
+		{	
+		"Name":	weeks red
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	wend imbe
+		"Image":	
+		"AKA":	(wendlandii x burle marx)
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	wendlandii
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	TRUE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	werneri
+		"Image":	
+		"AKA":	
+		"Accepted species":	TRUE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	white knight
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	white wizard
+		"Image":	
+		"AKA":	
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+		{	
+		"Name":	wilsonii
+		"Image":	
+		"AKA":	giganteum x radiatum
+		"Accepted species":	FALSE
+		"Shield":	FALSE
+		"Tri-lobed":	FALSE
+		"Lobey":	FALSE
+		"Long boi":	FALSE
+		"Ben owns":	FALSE
+		"Velvety":	FALSE
+		},	
+	]}		
+]			
